@@ -97,7 +97,8 @@ frontpage_cards:
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
-  description: frontpage.instructions_shorter
+  # description: frontpage.instructions_shorter
+  description: Click on each objective to see the data of the SDG indicators for Castilla-La Mancha
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
